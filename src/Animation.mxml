@@ -6,6 +6,13 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	
+	<s:layout>
+		<s:HorizontalLayout horizontalAlign="center" verticalAlign="middle" />
+	</s:layout>
+	
 	<s:Button id="btn" label="My Button" />
+	<s:Button id="btn1" label="My Button1" />
+	<s:Button id="btn2" label="My Button2" />
+	<s:Button id="btn3" label="My Button3" />
 	
 </s:Application>
